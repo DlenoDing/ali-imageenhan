@@ -2,14 +2,14 @@ English | [简体中文](README-CN.md)
 
 ![](https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg)
 
-# Alibaba Cloud imageenhan SDK for PHP
+# Alibaba Cloud imageenhan SDK for PHP(Copy To Cn Source)
 
 ## Installation
 
 ### Composer
 
 ```bash
-composer require alibabacloud/imageenhan-20190930
+composer require dleno/ali-imageenhan
 ```
 
 ## Issues
