@@ -9,7 +9,7 @@
 ### Composer
 
 ```bash
-composer require alibabacloud/imageenhan-20190930
+composer require dleno/ali-imageenhan
 ```
 
 ## 问题
